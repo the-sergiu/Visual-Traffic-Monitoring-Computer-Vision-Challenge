@@ -23,9 +23,9 @@ I used Python 3.9 for this project. All requirements can be found in `requiremen
 
 Note: The notebook uses an outdated method for obtaining YOLOv7 by manually downloading `yolov7.weights` and `yolov7.cfg`. We can now leverage much better YOLO versions through simple API calls from a framework such as `ultralytics`. 
 
-My model can be found here: https://huggingface.co/thesergiu/yolov7. Simply download all the files and place them in the root directory of this repo.
+My model can be found [here](https://huggingface.co/thesergiu/yolov7). Simply download all the files and place them in the root directory of this repo.
 
-The dataset Visual Traffic Monitoring can be found here: https://huggingface.co/datasets/thesergiu/Visual-Traffic-Monitoring/tree/main. Simply download all the files and place them in the root directory of this repo.
+The dataset Visual Traffic Monitoring can be found [here](https://huggingface.co/datasets/thesergiu/Visual-Traffic-Monitoring/tree/main). Simply download all the files and place them in the root directory of this repo.
 
 Notebook: VisualMonitoringNotebook.ipynb
 The notebook has to be placed in the root of the project directory.
