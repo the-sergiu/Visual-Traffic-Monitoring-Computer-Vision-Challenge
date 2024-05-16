@@ -6,11 +6,11 @@ occupied or not given a video frame; (ii) track a specific vehicle in a given vi
 the trajectories of vehicles in the intersection in a given video.
 
 ## Introduction
-In this project you have to analyze video data obtained from a static camera with the desired goal of monitoring the traffic in an intersection. The videos are collected at different times during day/week so it is easy to observe that there are some changes in illumination in the scene specific to each video.
+In this project I analyze video data obtained from a static camera with the desired goal of monitoring the traffic in an intersection. The videos are collected at different times during day/week so it is easy to observe that there are some changes in illumination in the scene specific to each video.
 
 ![assets/vis_1.png](assets/vis_1.png)
 
-For each of the three tasks that you have to tackle in this project you are given a “context” video that is taken with a few minutes before the test data (images or video) that you have to analyze was acquired using the same
+For each of the three tasks there is a given “context” video that is taken a few minutes before the test data (images or video) that has to be analyzed and is acquired using the same
 static camera.
 
 ![assets/vis_2.png](assets/vis_2.png)
